@@ -1,0 +1,11 @@
+flowchart TD
+  A[Write content.md] --> B[Run quality checks]
+  B --> C{Pass?}
+
+  C -- No --> A
+  C -- Yes --> D[Render HTML via Pandoc]
+  C -- Yes --> E[Render PDF via Playwright, from HTML to PDF]
+
+  D --> F[Verify outputs & assets]
+  E --> F
+  F --> G[Commit and push to GitHub Classroom]

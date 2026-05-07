@@ -1,0 +1,9 @@
+# requirements.txt
+# This project does not rely on Python packages.
+# Rendering pipeline uses:
+# - Pandoc (CLI)
+# - Node.js + npm
+# - Mermaid CLI (mmdc)
+# - Playwright (Node) + Chromium
+#
+# Therefore, there are no Python dependencies to install.
