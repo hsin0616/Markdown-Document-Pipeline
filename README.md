@@ -1,4 +1,4 @@
-# AIASE2026 HW1 — Markdown Document Production Line (SOP)
+# Markdown Document Production Line (SOP)
 
 This repository demonstrates **Decoupling Content and Rendering**: writing a rich `content.md` (single source of truth) and rendering it into **HTML + PDF** using a reproducible pipeline.
 
