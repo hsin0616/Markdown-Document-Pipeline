@@ -2,7 +2,7 @@
 
 This repository demonstrates **Decoupling Content and Rendering**: writing a rich `content.md` (single source of truth) and rendering it into **HTML + PDF** using a reproducible pipeline.
 
-**Owner:** @hsin0616 
+**Owner:** @hsin0616   
 **Course**: Generative AI Application Systems and Engineering (AIASE 2026)
 **Last updated:** 2026-03-04  
 **Outputs:** PDF / HTML  
